@@ -1,0 +1,15 @@
+*** README ***
+Author : William Castro 
+
+Projeto de Iniciação Científica 
+Estudo e Sintese de Processamento de Linguagem Natural para auxilio de diagnóstico 
+
+O que foi realizado
+- Quebra de tokens e análise token a token
+
+Pode ser uma opção
+
+- arvore trie para classificar 
+- Reconhecimento de Intenção
+- mecanismo para atualizar base de conhecimento
+- estruturar base de conhecimento
